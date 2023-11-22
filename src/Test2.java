@@ -23,6 +23,6 @@ public class Test2{
 				}
 			}
 		}
-		System.out.println(d);
+		System.out.println("共"+d+"組");
 	}
 }
